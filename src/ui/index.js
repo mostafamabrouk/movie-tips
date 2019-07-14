@@ -1,0 +1,12 @@
+export { default as Cover } from "./cover";
+export { default as Poster } from "./poster";
+export { default as Movie } from "./movie";
+export { default as MovieModal } from "./movieModal";
+export { default as Movies } from "./movies";
+export { default as Rating } from "./rating";
+export { default as Input } from "./input";
+export { default as Button } from "./button";
+export { default as Container } from "./container";
+export { default as Link } from "./link";
+export { default as Logo } from "./logo";
+export { default as BannerContent } from "./bannerContent";
